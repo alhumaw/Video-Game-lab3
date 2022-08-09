@@ -1,0 +1,324 @@
+Use RayLib (Y/N):  ------ Current State ------ 
+ ------ NPC Status ------ 
+Jorag is at (8,0) and say "Can't chat there are enemies here"
+ ------ Enemies Status ------ 
+Goblin #1 is at (9,9) also is at 10HP and say "You will not win"
+Goblin #2 is at (8,9) also is at 10HP and say "You will not win"
+Goblin #3 is at (9,8) also is at 10HP and say "You will not win"
+Goblin #4 is at (8,8) also is at 10HP and say "You will not win"
+Goblin #5 is at (0,8) also is at 10HP and say "You will not win"
+ ------ Player status ------ 
+Bob is at (0,0) also is at 95HP
+ ------ Map ------ 
+  0 1 2 3 4 5 6 7 8 9 
+ ---------------------
+0|B| | | | | | | |Y| |
+ ---------------------
+1| | | | | | | | | | |
+ ---------------------
+2| | | | | | | | | | |
+ ---------------------
+3| | | | | | | | | | |
+ ---------------------
+4| | | | | | | | | | |
+ ---------------------
+5| | | | | | | | | | |
+ ---------------------
+6| | | | | | | | | | |
+ ---------------------
+7| | | | | | | | | | |
+ ---------------------
+8|G| | | | | | | |G|G|
+ ---------------------
+9| | | | | | | | |G|G|
+ ---------------------
+
+
+ ------ Current State ------ 
+ ------ NPC Status ------ 
+Jorag is at (8,0) and say "Can't chat there are enemies here"
+ ------ Enemies Status ------ 
+Goblin #1 is at (9,9) also is at 10HP and say "You will not win"
+Goblin #2 is at (8,9) also is at 10HP and say "You will not win"
+Goblin #3 is at (9,8) also is at 10HP and say "You will not win"
+Goblin #4 is at (8,8) also is at 10HP and say "You will not win"
+Goblin #5 is at (0,8) also is at 10HP and say "You will not win"
+ ------ Player status ------ 
+Bob is at (0,0) also is at 85HP
+ ------ Map ------ 
+  0 1 2 3 4 5 6 7 8 9 
+ ---------------------
+0|P| | | | | | | |Y| |
+ ---------------------
+1| | | | | | | | | | |
+ ---------------------
+2| | | | | | | | | | |
+ ---------------------
+3| | | | | | | | | | |
+ ---------------------
+4| | | | | | | | | | |
+ ---------------------
+5| | | | | | | | | | |
+ ---------------------
+6| | | | | | | | | | |
+ ---------------------
+7| | | | | | | | | | |
+ ---------------------
+8|G| | | | | | | |G|G|
+ ---------------------
+9| | | | | | | | |G|G|
+ ---------------------
+
+
+ ------ Current State ------ 
+ ------ NPC Status ------ 
+Jorag is at (8,0) and say "Can't chat there are enemies here"
+ ------ Enemies Status ------ 
+Goblin #1 is at (9,9) also is at 10HP and say "You will not win"
+Goblin #2 is at (8,9) also is at 10HP and say "You will not win"
+Goblin #3 is at (9,8) also is at 10HP and say "You will not win"
+Goblin #4 is at (8,8) also is at 10HP and say "You will not win"
+Goblin #5 is at (0,8) also is at 10HP and say "You will not win"
+ ------ Player status ------ 
+Bob is at (1,1) also is at 85HP
+ ------ Map ------ 
+  0 1 2 3 4 5 6 7 8 9 
+ ---------------------
+0| | | | | | | | |Y| |
+ ---------------------
+1| |P| | | | | | | | |
+ ---------------------
+2| | | | | | | | | | |
+ ---------------------
+3| | | | | | | | | | |
+ ---------------------
+4| | | | | | | | | | |
+ ---------------------
+5| | | | | | | | | | |
+ ---------------------
+6| | | | | | | | | | |
+ ---------------------
+7| | | | | | | | | | |
+ ---------------------
+8|G| | | | | | | |G|G|
+ ---------------------
+9| | | | | | | | |G|G|
+ ---------------------
+
+
+ ------ Current State ------ 
+ ------ NPC Status ------ 
+Jorag is at (8,0) and say "Can't chat there are enemies here"
+ ------ Enemies Status ------ 
+Goblin #1 is at (9,9) also is at 10HP and say "You will not win"
+Goblin #2 is at (8,9) also is at 10HP and say "You will not win"
+Goblin #3 is at (9,8) also is at 10HP and say "You will not win"
+Goblin #4 is at (8,8) also is at 10HP and say "You will not win"
+Goblin #5 is at (0,8) also is at 10HP and say "You will not win"
+ ------ Player status ------ 
+Bob is at (2,2) also is at 85HP
+ ------ Map ------ 
+  0 1 2 3 4 5 6 7 8 9 
+ ---------------------
+0| | | | | | | | |Y| |
+ ---------------------
+1| | | | | | | | | | |
+ ---------------------
+2| | |P| | | | | | | |
+ ---------------------
+3| | | | | | | | | | |
+ ---------------------
+4| | | | | | | | | | |
+ ---------------------
+5| | | | | | | | | | |
+ ---------------------
+6| | | | | | | | | | |
+ ---------------------
+7| | | | | | | | | | |
+ ---------------------
+8|G| | | | | | | |G|G|
+ ---------------------
+9| | | | | | | | |G|G|
+ ---------------------
+
+
+ ------ Current State ------ 
+ ------ NPC Status ------ 
+Jorag is at (8,0) and say "Can't chat there are enemies here"
+ ------ Enemies Status ------ 
+Goblin #1 is at (9,9) also is at 10HP and say "You will not win"
+Goblin #2 is at (8,9) also is at 10HP and say "You will not win"
+Goblin #3 is at (9,8) also is at 10HP and say "You will not win"
+Goblin #4 is at (8,8) also is at 10HP and say "You will not win"
+Goblin #5 is at (0,8) also is at 10HP and say "You will not win"
+ ------ Player status ------ 
+Bob is at (3,3) also is at 85HP
+ ------ Map ------ 
+  0 1 2 3 4 5 6 7 8 9 
+ ---------------------
+0| | | | | | | | |Y| |
+ ---------------------
+1| | | | | | | | | | |
+ ---------------------
+2| | | | | | | | | | |
+ ---------------------
+3| | | |B| | | | | | |
+ ---------------------
+4| | | | | | | | | | |
+ ---------------------
+5| | | | | | | | | | |
+ ---------------------
+6| | | | | | | | | | |
+ ---------------------
+7| | | | | | | | | | |
+ ---------------------
+8|G| | | | | | | |G|G|
+ ---------------------
+9| | | | | | | | |G|G|
+ ---------------------
+
+
+ ------ Current State ------ 
+ ------ NPC Status ------ 
+Jorag is at (8,0) and say "Can't chat there are enemies here"
+ ------ Enemies Status ------ 
+Goblin #1 is at (9,9) also is at 10HP and say "You will not win"
+Goblin #2 is at (8,9) also is at 10HP and say "You will not win"
+Goblin #3 is at (9,8) also is at 10HP and say "You will not win"
+Goblin #4 is at (8,8) also is at 10HP and say "You will not win"
+Goblin #5 is at (0,8) also is at 10HP and say "You will not win"
+ ------ Player status ------ 
+Bob is at (4,4) also is at 85HP
+ ------ Map ------ 
+  0 1 2 3 4 5 6 7 8 9 
+ ---------------------
+0| | | | | | | | |Y| |
+ ---------------------
+1| | | | | | | | | | |
+ ---------------------
+2| | | | | | | | | | |
+ ---------------------
+3| | | | | | | | | | |
+ ---------------------
+4| | | | |B| | | | | |
+ ---------------------
+5| | | | | | | | | | |
+ ---------------------
+6| | | | | | | | | | |
+ ---------------------
+7| | | | | | | | | | |
+ ---------------------
+8|G| | | | | | | |G|G|
+ ---------------------
+9| | | | | | | | |G|G|
+ ---------------------
+
+
+ ------ Current State ------ 
+ ------ NPC Status ------ 
+Jorag is at (8,0) and say "Can't chat there are enemies here"
+ ------ Enemies Status ------ 
+Goblin #1 is at (9,9) also is at 10HP and say "You will not win"
+Goblin #2 is at (8,9) also is at 10HP and say "You will not win"
+Goblin #3 is at (9,8) also is at 10HP and say "You will not win"
+Goblin #4 is at (8,8) also is at 10HP and say "You will not win"
+Goblin #5 is at (0,8) also is at 10HP and say "You will not win"
+ ------ Player status ------ 
+Bob is at (5,5) also is at 85HP
+ ------ Map ------ 
+  0 1 2 3 4 5 6 7 8 9 
+ ---------------------
+0| | | | | | | | |Y| |
+ ---------------------
+1| | | | | | | | | | |
+ ---------------------
+2| | | | | | | | | | |
+ ---------------------
+3| | | | | | | | | | |
+ ---------------------
+4| | | | | | | | | | |
+ ---------------------
+5| | | | | |B| | | | |
+ ---------------------
+6| | | | | | | | | | |
+ ---------------------
+7| | | | | | | | | | |
+ ---------------------
+8|G| | | | | | | |G|G|
+ ---------------------
+9| | | | | | | | |G|G|
+ ---------------------
+
+
+ ------ Current State ------ 
+ ------ NPC Status ------ 
+Jorag is at (8,0) and say "Can't chat there are enemies here"
+ ------ Enemies Status ------ 
+Goblin #1 is at (9,9) also is at 10HP and say "You will not win"
+Goblin #2 is at (8,9) also is at 10HP and say "You will not win"
+Goblin #3 is at (9,8) also is at 10HP and say "You will not win"
+Goblin #4 is at (8,8) also is at 10HP and say "You will not win"
+Goblin #5 is at (0,8) also is at 10HP and say "You will not win"
+ ------ Player status ------ 
+Bob is at (6,6) also is at 85HP
+ ------ Map ------ 
+  0 1 2 3 4 5 6 7 8 9 
+ ---------------------
+0| | | | | | | | |Y| |
+ ---------------------
+1| | | | | | | | | | |
+ ---------------------
+2| | | | | | | | | | |
+ ---------------------
+3| | | | | | | | | | |
+ ---------------------
+4| | | | | | | | | | |
+ ---------------------
+5| | | | | | | | | | |
+ ---------------------
+6| | | | | | |B| | | |
+ ---------------------
+7| | | | | | | | | | |
+ ---------------------
+8|G| | | | | | | |G|G|
+ ---------------------
+9| | | | | | | | |G|G|
+ ---------------------
+
+
+ ------ Current State ------ 
+ ------ NPC Status ------ 
+Jorag is at (8,0) and say "Can't chat there are enemies here"
+ ------ Enemies Status ------ 
+Goblin #1 is at (9,9) also is at 10HP and say "You will not win"
+Goblin #2 is at (8,9) also is at 0HP
+Goblin #3 is at (9,8) also is at 0HP
+Goblin #4 is at (8,8) also is at 0HP
+Goblin #5 is at (0,8) also is at 10HP and say "You will not win"
+ ------ Player status ------ 
+Bob is at (6,6) also is at 80HP
+ ------ Map ------ 
+  0 1 2 3 4 5 6 7 8 9 
+ ---------------------
+0| | | | | | | | |Y| |
+ ---------------------
+1| | | | | | | | | | |
+ ---------------------
+2| | | | | | | | | | |
+ ---------------------
+3| | | | | | | | | | |
+ ---------------------
+4| | | | | | | | | | |
+ ---------------------
+5| | | | | | | | | | |
+ ---------------------
+6| | | | | | |P| | | |
+ ---------------------
+7| | | | | | | | | | |
+ ---------------------
+8|G| | | | | | | | | |
+ ---------------------
+9| | | | | | | | | |G|
+ ---------------------
+
+
